@@ -77,3 +77,7 @@ Result:
       * 3 stars: “Neutral”.
       * 4-5 stars: “Positive”.
 
+## Exemplo using Python Code:
+
+- https://github.com/WanderBernardo/ArtificialIntelligence_HuggingFace
+- https://github.com/WanderBernardo/ArtificialIntelligence_UsingTransformers
