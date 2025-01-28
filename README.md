@@ -1,4 +1,4 @@
-# ArtificialIntelligence_UsingBERT
+# Artificial Intelligence: Using BERT via code in Python Language
 The goal is use BERT via code in Python Language
 
 - BERT (Bidirectional Encoder Representations from Transformers): It’s a specific model based on the Transformer architecture, but it uses only the Encoder part of the Transformer. It was designed by the Google team in 2018 to understand the context of words in a text bidirectionally (i.e., looking at both what comes before and after a word). It is pre-trained on large amounts of text and then fine-tuned for specific tasks like question answering or sentiment analysis.
